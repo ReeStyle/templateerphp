@@ -1,0 +1,21 @@
+{
+  "name": "reestyle/templateerphp",
+  "description": "Simple PHP templating system",
+  "minimum-stability": "stable",
+  "license": "Unlicense",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "Rafael den Heijer",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TemplateerPHP\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=5.6"
+  }
+}
