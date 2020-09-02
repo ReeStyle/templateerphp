@@ -3,7 +3,7 @@
   "description": "Simple PHP templating system",
   "minimum-stability": "stable",
   "license": "Unlicense",
-  "version": "0.1",
+  "version": "0.2",
   "authors": [
     {
       "name": "Rafael den Heijer",
